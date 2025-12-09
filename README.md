@@ -40,7 +40,7 @@ Language: C++
 
 File Name: copy_array_reverse.cpp
 
-Challenge Number: #31
+Challenge Number: #32
 
 💬 Notes
 -
