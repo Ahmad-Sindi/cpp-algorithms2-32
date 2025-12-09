@@ -1,4 +1,4 @@
-Algorithm Challenge #31 – Copy Array in Reverse Order
+Algorithm Challenge #32 – Copy Array in Reverse Order
 -
 🔁 Problem Description
 -
